@@ -38,6 +38,7 @@ public class Calculator {
 	private void setupDefaultOperations() {
 		//more to come
 		//more Stuff
+		//3s a charm
 		new Equals();
 		new Minus();
 		new Plus();
