@@ -35,10 +35,10 @@ public class Calculator {
 		setupDefaultOperations();
 	}
 
-	private void setupDefaultOperations() {
+	private void setupDefaultOperations()
+	{
 		//more to come
-		//more Stuff
-		//3s a charm
+		//even more
 		new Equals();
 		new Minus();
 		new Plus();
