@@ -15,6 +15,7 @@ import org.eclipse.example.calc.UnaryOperation;
  */
 public class Square extends AbstractOperation implements UnaryOperation {
 
+	//Bester Kommentar der Welt
 	@Override
 	public String getName() {
 		return "x²";
